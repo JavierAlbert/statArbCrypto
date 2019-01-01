@@ -1,3 +1,6 @@
+# Bayesian_Classifier:
+This project evaluates the performance of a Bayesian Classifier under progressive feature aggregation based on optimal information gain.
+
 # statArbCrypto1: 
 Project that explores the presence of Cointegration among cryptocurrency price series for the purpose of building algorithmic trading strategies.
 
@@ -9,9 +12,6 @@ Project that explores the use of LeNet5 neural network for the purpuse of multi-
 
 # LSTM_Networks_Test:
 Project that explores the use of LSTM recurrent neural networks for simple a simple NLP task.
-
-# Bayesian_Classifier:
-This project evaluates the performance of a Bayesian Classifier under progressive feature aggregation based on optimal information gain.
 
 # GAN_Classifier:
 Project that uses Generative Adversarial Networks (GAN) to improve the accuracy of a neural network classifier. Tested on multi-class image classification.
