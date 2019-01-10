@@ -1,4 +1,6 @@
-Statistical Arbitrage & Algorithmic Trading: time series analysis and the presence of cointegration in cryptocurrency price series.
+# Statistical Arbitrage & Algorithmic Trading: 
+
+Time series analysis and the presence of cointegration in cryptocurrency price series.
 
 Several cointegrating relationships are found. Examples:
 
